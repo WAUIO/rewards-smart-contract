@@ -1,6 +1,6 @@
 # Voxiberate Rewards Contract
 
-This is the Voxiberate Rewards Contract, a smart contract written in C# for the Neo blockchain platform. It allows for the management and distribution of rewards to citizens.
+This is the Voxiberate Rewards Contract, a smart contract written in C# for the Neo blockchain platform. It allows for the management and distribution of rewards to citizens. With thanks to GrantShares for providing us with a grant to develop web3 features for Voxiberate.
 
 ## Table of Contents
 
